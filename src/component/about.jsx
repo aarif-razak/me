@@ -27,7 +27,6 @@ export default class Hero extends Component{
                       <li><i className="icofont-rounded-right" /> <strong>Location:</strong> Mansfield, New Jersey</li>
                       <li><i className="icofont-rounded-right" /> <strong>Hobbies:</strong> Tennis, Video Games, Hiking, and Cooking</li>
                       <li><i className="icofont-rounded-right" /> <strong>Interests:</strong> Space, History, and Men's Fashion</li>
-                      <li><i className="icofont-rounded-right" /> <strong>Learning:</strong> Space, History, and Men's Fashion</li>
                       <li><i className="icofont-rounded-right" /> <strong>Dislikes:</strong> Alien 3 and Onions</li>
                     </ul>
                   </div>
