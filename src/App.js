@@ -4,6 +4,7 @@ import Hero from './component/hero'
 import About from './component/about'
 import Resume from './component/resume'
 import Contact from "./component/contact."
+import Portfolio from "./component/portfolio"
 
 
 
@@ -15,6 +16,7 @@ class App extends Component {
       <main id="main">
         <About></About>
         <Resume></Resume>
+        <Portfolio></Portfolio>
         </main>
        <Contact></Contact> 
       </>
