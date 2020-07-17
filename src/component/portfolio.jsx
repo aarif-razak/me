@@ -10,7 +10,7 @@ export default class Portfolio extends Component{
                 <p>My projects from over the years, school or otherwise...</p>
               </div>
               <div className="projectList" dir="ltr">
-                <Button className="accordion" >CS336 Train Scheduler</Button>
+                <button className="accordion" >CS336 Train Scheduler</button>
                 <div className="panel" dir="ltr">
                   <p>For my CS336 (Databases) class, planned via diagrams and project guidlines to develop a scheduling system for a Mock Train System.
                     The system pulled from an SQL database, along with actually hosting the site via Tomcat and AWS EC2 Instances. Additioanlly, a front end was developed using HTML, CSS, and implemented through 
