@@ -58,7 +58,7 @@ export default class Resume extends Component{
         <h5>2020 - Present</h5>
         <p><em>Huda Labratory, Rutgers University, New Brunswick, NJ</em></p>
         <ul>
-          <li>Starting soon, will be working at <a href="https://www.hudalab.org">Huda Labratory</a></li>
+          <li><a href="https://www.hudalab.org">Huda Labratory</a></li>
           <li>Coming soon...</li>
         </ul>
       </div>
