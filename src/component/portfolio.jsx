@@ -17,8 +17,8 @@ export default class Portfolio extends Component{
           Java Server Pages.
         </p>
         <ul>
-          <li><b>Built With: </b> HTML, CSS, SQL, JSP, AWS, and tears.</li>
-        </ul>
+      <li><b>Built With: </b>AWS, SQL, JSP, HTML, CSS, and tears. </li>
+     </ul>
       </div>
       <h4>CS314 Parallel Graph Matching</h4>
       <div className="panel" dir="ltr">
