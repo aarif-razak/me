@@ -26,7 +26,7 @@ export default class Portfolio extends Component{
           and managed thread assignments to create optimized graphs.
         </p>
         <ul>
-          <li><b>Built With: </b>NVIDIA's CUDA Language</li>
+          <li><b>Built With: </b>NVIDIA's CUDA Language.</li>
         </ul>
       </div>
       <h4>NASA Astro SMS Bot</h4>
@@ -59,11 +59,11 @@ export default class Portfolio extends Component{
       {/* </div> */}
       <h4 >Personal Website</h4>
       <div className="panel" dir="ltr">
-        <p>This as 'personal' a personal project can get, but this website on its own is a personal project. I was inpsired by fellow classmates, along with generally having free time during the summer to
+        <p>This is as 'personal' as a personal project can get, but this website on its own is a personal project. I was inpsired by fellow classmates, along with generally having free time during the summer to
           sharpen up my skills. (And tell myself I'm doing something productive.)
         </p>
         <ul>
-          <li><b>Debugging: </b> Debugging was done via React Docs, along with general assistance from W3Schools.</li>
+          <li><b>Debugging: </b> Debugging was done via React Docs, freeCodeCamp, and W3Schools</li>
           <li><b>Built With: </b>HTML, CSS, React, Javascript, and dry humor. </li>
         </ul>
       </div>
