@@ -18,7 +18,7 @@ export default class Portfolio extends Component{
         </p>
         <ul>
           <li><b>Built With: </b> HTML, CSS, SQL, JSP, AWS, and tears.</li>
-          </ul>
+        </ul>
       </div>
       <h4>CS314 Parallel Graph Matching</h4>
       <div className="panel" dir="ltr">
