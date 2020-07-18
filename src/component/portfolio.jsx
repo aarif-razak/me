@@ -17,8 +17,17 @@ export default class Portfolio extends Component{
           Java Server Pages.
         </p>
         <ul>
-          <li><b>Built With: </b> HTML, CSS, SQL, JSP, AWS, and tears.</li><li>
-          </li></ul>
+          <li><b>Built With: </b> HTML, CSS, SQL, JSP, AWS, and tears.</li>
+          </ul>
+      </div>
+      <h4>CS314 Parallel Graph Matching</h4>
+      <div className="panel" dir="ltr">
+        <p>For my CS314 (Principles of Programming Languages) class, implemented the popular handshaking algorithim, utalizing parallel segment scans, 
+          and managed thread assignments to create optimized graphs.
+        </p>
+        <ul>
+          <li><b>Built With: </b>NVIDIA's CUDA Language</li>
+        </ul>
       </div>
       <h4>NASA Astro SMS Bot</h4>
       <div className="panel" dir="ltr">
@@ -38,16 +47,16 @@ export default class Portfolio extends Component{
           <li><b>Built with: </b> Pure Javascript, HTML, and CSS. Media taken from various sources, such as stock images or Destiny 2 screenshots.</li>
         </ul>
       </div>
-      <h4 >Atari Breaker Chrome Extension</h4>
-      <div className="panel" dir="ltr">
-        <p>A personal project (more like an experiment), in programming Google Chrome Extensions. Pulls up a small game of Atari Breaker 
-          in the corner of your browser, when beaten (or losing all lives), encourages you to get back to work!
-        </p>
-        <ul>
-          <li><b>Debugging: </b> Debugging was done through Mozilla Docs, W3Schools, along with Chrome's own console to interpret errors.</li>
-          <li><b>Built With: </b>HTML, CSS, and Javascript from the Mozilla Docs</li>
-        </ul> 
-      </div>
+      {/* <h4>Atari Breaker Chrome Extension</h4> */}
+      {/* <div className="panel" dir="ltr"> */}
+        {/* <p>A personal project (more like an experiment), in programming Google Chrome Extensions. Pulls up a small game of Atari Breaker  */}
+          {/* in the corner of your browser, when beaten (or losing all lives), encourages you to get back to work! */}
+        {/* </p> */}
+        {/* <ul> */}
+          {/* <li><b>Debugging: </b> Debugging was done through Mozilla Docs, W3Schools, along with Chrome's own console to interpret errors.</li> */}
+          {/* <li><b>Built With: </b>HTML, CSS, and Javascript from the Mozilla Docs</li> */}
+        {/* </ul>  */}
+      {/* </div> */}
       <h4 >Personal Website</h4>
       <div className="panel" dir="ltr">
         <p>This as 'personal' a personal project can get, but this website on its own is a personal project. I was inpsired by fellow classmates, along with generally having free time during the summer to
