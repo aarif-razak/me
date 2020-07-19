@@ -13,7 +13,7 @@ export default class Portfolio extends Component{
       <h4>CS336 Train Scheduler</h4>
       <div className="panel" dir="ltr">
         <p>For my CS336 (Databases) class, planned via diagrams and project guidlines to develop a scheduling system for a Mock Train System.
-          The system pulled from an SQL database, along with actually hosting the site via Tomcat and AWS EC2 Instances. Additioanlly, a front end was developed using HTML, CSS, and implemented through 
+          The system pulled from an SQL database, along with actually hosting the site via Tomcat and AWS EC2 Instances. Additionally, a front end was developed using HTML, CSS, and implemented through 
           Java Server Pages.
         </p>
         <ul>
