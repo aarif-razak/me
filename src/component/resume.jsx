@@ -12,13 +12,12 @@ export default class Resume extends Component{
     <div className="row">
       <h3 className="resume-title">Education</h3>
       <div className="resume-item">
-        <h4>Bachelor's of Arts in Computer Science</h4>
+        <h4>B.A in Computer Science, B.S in Psychology</h4>
         <h5>2018 - 2022</h5>
         <p><em>Rutgers University, New Brunswick, NJ</em></p>
         <div className="col-lg-6">
           <ul>           
             
-            <li><strong>Minor(s):</strong> Cognitive Science, Psychology</li>
             <li><strong>Awards:</strong> Dean's List, Honors Program</li>
           </ul>
           <p>My coursework includes: Data Structures, Calculus II, Quantitative Methods in Psychology, Computer Architecture, Discrete Structures 1&amp;2, Introduction to Linear Algebra, Databases, Principles of Programming Languages, Introduction to Cognitive Science</p>
