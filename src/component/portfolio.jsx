@@ -60,7 +60,7 @@ export default class Portfolio extends Component{
       <h4 >Personal Website</h4>
       <div className="panel" dir="ltr">
         <p>This is as 'personal' as a personal project can get, but this website on its own is a personal project. I was inpsired by fellow classmates, along with generally having free time during the summer to
-          sharpen up my skills. (And tell myself I'm doing something productive.)
+          sharpen up my skills. 
         </p>
         <ul>
           {/* <li><b>Debugging: </b> Debugging was done via React Docs, freeCodeCamp, and W3Schools</li> */}

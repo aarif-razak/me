@@ -17,7 +17,7 @@ export default class Hero extends Component{
                 <img src="assets/img/profile-img.jpg" className="img-fluid" alt="" />
               </div>
               <div className="col-lg-8 pt-4 pt-lg-0 content">
-                <h3> A driven computer scientist</h3>
+                <h3> A driven student of computer science</h3>
                 <p className="font-italic">
                   Code and everything in between.
                 </p>
