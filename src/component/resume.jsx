@@ -39,7 +39,7 @@ export default class Resume extends Component{
         <ul>
           <li>Assisted university faculty, students, and staff with Rutgers IT issues ranging from connecting devices to repairing accounts on university servers</li>
           <li>Provided over the phone support in a professional and efficient manner while also troubleshooting technologies such as Microsoft Office, 802.1x networking, VPN services, MAC authentication bypass, and domain specific platforms</li>
-          <li>Routinely dealt with over 15 calls and upwards of 20 tickets per day</li>
+          <li>Routinely assisted with over 15 calls and upwards of 20 tickets per day</li>
           <li>Coordinated with other consultants and a management team to curate a list of effective solutions to common issues</li>
         </ul>
       </div>
@@ -58,7 +58,11 @@ export default class Resume extends Component{
         <p><em>Huda Labratory, Rutgers University, New Brunswick, NJ</em></p>
         <ul>
           <li><a href="https://www.hudalab.org">Huda Labratory</a></li>
-          <li>Coming soon...</li>
+          <li><b>Current Project: </b> Neural Circuits underlying decision making behavior</li>
+          <li>Currently utalizing Python's DeepLabCut library for animal pose estimation</li>
+          <li>Utalizing published articles for assistance, along with generating documentation for the lab</li>
+          <li>Helping generate data that could be used in assistng the treatment in Alzheimer's patients and other neurological disorders</li>
+          
         </ul>
       </div>
     </div>
