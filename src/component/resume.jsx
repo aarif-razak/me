@@ -44,15 +44,6 @@ export default class Resume extends Component{
         </ul>
       </div>
       <div className="resume-item">
-        <h4>Guest Experience Team Member</h4>
-        <h5>2019 - 2019</h5>
-        <p><em>Six Flags Great Adventure, Jackson, NJ</em></p>
-        <ul>
-          <li>Collaborated with team and management to keep admissions flowing in a fast-paced environment while resolving issues and oversights to ensure full customer satisfaction</li>
-          <li>Consulted with managers to identify inefficiencies and aide in training new employees</li>
-        </ul>
-      </div>
-      <div className="resume-item">
         <h4>Aresty Research Assistant</h4>
         <h5>2020 - Present</h5>
         <p><em>Huda Labratory, Rutgers University, New Brunswick, NJ</em></p>
@@ -63,6 +54,15 @@ export default class Resume extends Component{
           <li>Utalizing published articles for assistance, along with generating documentation for the lab</li>
           <li>Helping generate data that could be used in assistng the treatment in Alzheimer's patients and other neurological disorders</li>
           
+        </ul>
+      </div>
+      <div className="resume-item">
+        <h4>Guest Experience Team Member</h4>
+        <h5>2019 - 2019</h5>
+        <p><em>Six Flags Great Adventure, Jackson, NJ</em></p>
+        <ul>
+          <li>Collaborated with team and management to keep admissions flowing in a fast-paced environment while resolving issues and oversights to ensure full customer satisfaction</li>
+          <li>Consulted with managers to identify inefficiencies and aide in training new employees</li>
         </ul>
       </div>
     </div>
