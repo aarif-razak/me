@@ -48,12 +48,11 @@ export default class Resume extends Component{
         <h5>2020 - Present</h5>
         <p><em>Huda Labratory, Rutgers University, New Brunswick, NJ</em></p>
         <ul>
-          <li><a href="https://www.hudalab.org">Huda Labratory</a></li>
           <li><b>Current Project: </b> Neural Circuits underlying decision making behavior</li>
-          <li>Currently utalizing Python's DeepLabCut library for animal pose estimation</li>
-          <li>Utalizing published articles for assistance, along with generating documentation for the lab</li>
-          <li>Helping generate data that could be used in assistng the treatment in Alzheimer's patients and other neurological disorders</li>
-          
+          <li>Currently learning and applying Python's DeepLabCut library for animal pose estimation</li>
+          <li>Utilizing published articles for assistance, along with generating documentation for the lab</li>
+          <li>Helping generate data that could be used in assisting the treatment of Alzheimer's and other neurological disorders</li>
+          <li><a href="https://www.hudalab.org">Huda Labratory</a></li>
         </ul>
       </div>
       <div className="resume-item">
